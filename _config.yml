@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 title: Dinky theme
 description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
+=======
+name: Febriani's Portfolio
+markdown: kramdown
+>>>>>>> f9afd146720af3d0c25f3912b73b2ad9b751ba6f
