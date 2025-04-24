@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Febri is channgine something here
 
-# Header 1
+<!-- # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -33,21 +33,23 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Data Visualization Repositories
+  - [Telecommunication Dashboard](./another-page.html).
+*   Predictive Analytics Repositories
+*   Prescriptive Analytics Repositories
+*   Large Language Model Repositories
 
-##### Header 5
+<!-- ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+3.  This is an ordered list following a header. -->
 
-###### Header 6
+<!-- ###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -60,12 +62,7 @@ end
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### And an ordered list:
 
@@ -118,4 +115,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
