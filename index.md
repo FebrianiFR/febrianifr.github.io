@@ -46,7 +46,7 @@ end
 #### Header 4
 
 *   Data Visualization Repositories
-  - [Telecommunication Dashboard](./another-page.html).
+  - [Telecommunication Dashboard](./another-page.html)
 *   Predictive Analytics Repositories
 *   Prescriptive Analytics Repositories
 *   Large Language Model Repositories
