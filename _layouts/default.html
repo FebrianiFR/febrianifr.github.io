@@ -38,6 +38,12 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        {% assign repository_content = content | split: '#### Github Repositories' %}
+        {% if repository_content.size > 1 %}
+          {{ repository_content[1] | markdownify }}
+        {% endif %}
+        
       </header>
       <section>
 

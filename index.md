@@ -44,7 +44,6 @@ end
 ``` -->
 
 #### Github Repositories
-
 - Data Visualization Repositories
   - [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
   - [Job Market Analysis Dashboard](https://github.com/FebrianiFR/job-market-analysis)
