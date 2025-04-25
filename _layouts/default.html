@@ -43,11 +43,12 @@
         {% if repository_content.size > 1 %}
           {{ repository_content[1] | markdownify }}
         {% endif %}
-        
+
       </header>
       <section>
 
-      {{ content }}
+        {% assign main_content = content | split: '#### Github Repositories' %}
+        {{ main_content[0] | markdownify }}
 
       </section>
       <footer>
