@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Febri's Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi, I'm Febri. As an MSc Business Analytics graduate with over 3 years of experience as a data & digital consultant, I help businesses leverage data for impactful solutions. My expertise spans formulating digital strategies, implementing data analytics in diverse business contexts, and empowering others through data literacy training. I'm proficient in Python and SQL, and fueled by a passion for continuous learning.
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -46,7 +46,7 @@ end
 #### Header 4
 
 *   Data Visualization Repositories
-  - [Telecommunication Dashboard](./another-page.html)
+  - [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
 *   Predictive Analytics Repositories
 *   Prescriptive Analytics Repositories
 *   Large Language Model Repositories
