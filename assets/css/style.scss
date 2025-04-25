@@ -1,4 +1,52 @@
 ---
 ---
-
+header {
+    display: flex; /* Enable flexbox for the header */
+    flex-direction: column; /* Stack the header items vertically */
+    width: 270px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+  
+  header > h1,
+  header > img,
+  header > p.view,
+  header > p { /* Target the main header elements */
+    margin-bottom: 20px; /* Add some space below them */
+  }
+  
+  header > ul.downloads {
+    margin-bottom: 20px; /* Add space below the social links */
+  }
+  
+  header > ul { /* Target the repository list */
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px; /* Add space below the repository list */
+  }
+  
+  header > ul > li {
+    margin-bottom: 5px; /* Add space between repository categories */
+  }
+  
+  header > ul > li > ul {
+    padding-left: 15px; /* Indent the repository links */
+    list-style-type: disc; /* Use disc bullets for links */
+  }
+  
+  header > ul > li > ul > li {
+    margin-bottom: 2px; /* Add a little space between links */
+  }
+  
+  header > ul a {
+    color: #267CB9;
+    text-decoration: none;
+  }
+  
+  header > ul a:hover,
+  header > ul a:focus {
+    color: #069;
+    font-weight: bold;
+  }
 @import "jekyll-theme-minimal";
