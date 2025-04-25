@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Febri's Portfolio
 
-Hi, I'm Febri. As an MSc Business Analytics graduate with over 3 years of experience as a data & digital consultant, I help businesses leverage data for impactful solutions. My expertise spans formulating digital strategies, implementing data analytics in diverse business contexts, and empowering others through data literacy training. I'm proficient in Python and SQL, and fueled by a passion for continuous learning.
+Hi, I'm Febri. As an **MSc Business Analytics** graduate with over 3 years of experience as a data & digital consultant, I help businesses leverage data for impactful solutions. My expertise spans formulating digital strategies, implementing data analytics in diverse business contexts, and empowering others through data literacy training. I'm proficient in Python and SQL, and fueled by a passion for continuous learning.
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -43,13 +43,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-#### Header 4
+#### Github Repositories
 
 *   Data Visualization Repositories
-  - [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
+  * [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
+  * [Job Market Analysis Dashboard](https://github.com/FebrianiFR/job-market-analysis)
 *   Predictive Analytics Repositories
+  * [Sales Volume Predictive Models](https://github.com/FebrianiFR/sales-volume-prediction)
+  * [Batik Pattern Prediction](https://github.com/FebrianiFR/ambhatik)
 *   Prescriptive Analytics Repositories
+  * [Optimzation Strawberry's Supply Chain]()
+  * [Spoke-Hub Network Allocation Optimization]()
 *   Large Language Model Repositories
+  * [Fake News Detection using LLM](https://github.com/FebrianiFR/llm-group-project)
 
 <!-- ##### Header 5
 
