@@ -45,17 +45,17 @@ end
 
 #### Github Repositories
 
-*   Data Visualization Repositories
-  * [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
-  * [Job Market Analysis Dashboard](https://github.com/FebrianiFR/job-market-analysis)
-*   Predictive Analytics Repositories
-  * [Sales Volume Predictive Models](https://github.com/FebrianiFR/sales-volume-prediction)
-  * [Batik Pattern Prediction](https://github.com/FebrianiFR/ambhatik)
-*   Prescriptive Analytics Repositories
-  * [Optimzation Strawberry's Supply Chain]()
-  * [Spoke-Hub Network Allocation Optimization]()
-*   Large Language Model Repositories
-  * [Fake News Detection using LLM](https://github.com/FebrianiFR/llm-group-project)
+-   Data Visualization Repositories
+  - [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
+  - [Job Market Analysis Dashboard](https://github.com/FebrianiFR/job-market-analysis)
+-   Predictive Analytics Repositories
+  - [Sales Volume Predictive Models](https://github.com/FebrianiFR/sales-volume-prediction)
+  - [Batik Pattern Prediction](https://github.com/FebrianiFR/ambhatik)
+-   Prescriptive Analytics Repositories
+  - [Optimzation Strawberry's Supply Chain]()
+  - [Spoke-Hub Network Allocation Optimization]()
+-   Large Language Model Repositories
+  - [Fake News Detection using LLM](https://github.com/FebrianiFR/llm-group-project)
 
 <!-- ##### Header 5
 
