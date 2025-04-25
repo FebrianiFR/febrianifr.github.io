@@ -1,7 +1,9 @@
 title: Febri's Portfolio
 logo: /assets/img/logo.png
 description: Digital Consultant, MSc Business Analytics - The University of Edinburgh
-show_downloads: false
+show_downloads: true
 google_analytics:
 future: true
 theme: jekyll-theme-minimal
+linkedin_url: https://www.linkedin.com/in/febrianifr/
+email_url: mailto:febriani.fitria@gmail.com
