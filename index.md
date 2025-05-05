@@ -43,6 +43,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
+### Sharing & Teaching
+I love cultivating materials catered for specific audiences to share about digital and data analytics. Portfolio & Publication can be acessed [here](./another-page.md)
+
 #### Github Repositories
 - Data Visualization Repositories
   - [Telecommunication Dashboard](https://github.com/FebrianiFR/telecom-dashboard)
